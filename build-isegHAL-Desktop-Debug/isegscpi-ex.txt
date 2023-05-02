@@ -1,0 +1,7 @@
+./isegHalExample
+isegHalExample 1.9.0 rev. 0d7da029 started.
+Please append parameter for interface device:
+        isegHalExample --interface iseg-scpi:///dev/ttyUSB0
+        isegHalExample --interface iseg-edcp://can0
+        isegHalExample --interface can0
+        isegHalExample --interface iseg-edcp://can0,wiener-can://can1
