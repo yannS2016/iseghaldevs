@@ -1,0 +1,3 @@
+[submodule "devIsegHal"]
+	path = devIsegHal
+	url = https://github.com/yannS2016/devIsegHal
